@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f0faa3b67d8d62a7",
+    "username": "admin",
+    "password": "admin",
+    "expiresAt": "2026-08-25",
+    "allowOffline": false
+  },
+  {
+    "id": "f0faa3b67d8d62a7",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-08-24",
+    "allowOffline": false
+  }
+]
