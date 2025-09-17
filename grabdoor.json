@@ -19,5 +19,13 @@
     "password": "adhia111",
     "expiresAt": "2025-09-28",
     "allowOffline": false
+  },
+
+  {
+    "id": "8343366ba61b9217",
+    "username": "ganjar",
+    "password": "ganjar",
+    "expiresAt": "2025-10-1",
+    "allowOffline": false
   }
 ]
