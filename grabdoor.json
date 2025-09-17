@@ -27,5 +27,12 @@
     "password": "ganjar",
     "expiresAt": "2025-10-18",
     "allowOffline": false
+  },
+  {
+    "id": "6f2e63a860c33864",
+    "username": "evan",
+    "password": "evan",
+    "expiresAt": "2025-10-18",
+    "allowOffline": false
   }
 ]
